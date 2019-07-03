@@ -1,1 +1,2 @@
-# Canny-Edge-Detection-from-scratch-
+# Canny-Edge-Detection
+This is an attempt to code the Canny edge detector from scratch in Matlab.
